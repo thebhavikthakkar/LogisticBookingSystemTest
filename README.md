@@ -25,10 +25,10 @@ The Logistic Booking System is a server-side C# application built using Domain-D
 ## Setup and Configuration
 
 1. Install the required dependencies: .NET SDK, Entity Framework Core, etc.
-2. Clone the repository: `git clone https://github.com/your-username/logistic-booking-system.git`
-3. Navigate to the project directory: `cd logistic-booking-system`
+2. Clone the repository: `git clone https://github.com/thebhavikthakkar/LogisticBookingSystemTest.git`
+3. Navigate to the project directory: `cd LogisticBookingSystem`
 4. Configure the database connection in the `appsettings.json` file.
-5. Run database migrations to create the necessary tables: `dotnet ef database update`
+5. Run database migrations to create the necessary tables: `dotnet ef database update`, In case you would like to setup database directly via script then Navigate to folder - DbScript amd execute that script. 
 6. Build the project: `dotnet build`
 7. Run the application: `dotnet run`
 
