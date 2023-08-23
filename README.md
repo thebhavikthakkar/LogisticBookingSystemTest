@@ -51,6 +51,8 @@ The following endpoints are available in the Logistic Booking System:
 
 Refer to the API documentation or Swagger UI for more details on request/response formats and data validation.
 
+## Demo - https://www.loom.com/share/63f89435a9cf473783d6c5f35eda5e2a
+
 ## Testing
 
 The project includes unit tests to validate the business rules and key functionality. To run the tests, use the following command:
